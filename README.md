@@ -1,4 +1,9 @@
 # MiniPy Interpreter
+---
+
+[🌐 切换到中文版本 (Switch to Chinese)](./README_zh.md)
+
+---
 ## Description
 A lightweight interpreter fully handwritten in standard C language, built without any third-party parsing tools like Flex or Bison. This project implements the complete compilation workflow from source code scanning to virtual machine execution, with lexical analysis, syntax parsing, AST construction, bytecode generation and a custom stack virtual machine.
 
